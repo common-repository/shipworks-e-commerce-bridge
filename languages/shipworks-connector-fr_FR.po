@@ -1,0 +1,639 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-01-27 15:32-0800\n"
+"PO-Revision-Date: 2020-01-27 15:35-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ../../../websites/Plugin Shipworks connector/trunk\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: connection.php\n"
+"X-Poedit-SearchPath-1: controler.php\n"
+"X-Poedit-SearchPath-2: control/controlAdmin.php\n"
+"X-Poedit-SearchPath-3: control/controlConnection.php\n"
+"X-Poedit-SearchPath-4: control/controlMessageSettings.php\n"
+"X-Poedit-SearchPath-5: control/controlNotice.php\n"
+"X-Poedit-SearchPath-6: control/controlSetUp.php\n"
+"X-Poedit-SearchPath-7: control/controlSubscription.php\n"
+"X-Poedit-SearchPath-8: functions/woocommerce/functionsWoocommerce.php\n"
+"X-Poedit-SearchPath-9: functions/cart66/functionsCart66.php\n"
+"X-Poedit-SearchPath-10: functions/jigoshop/functionsJigoshop.php\n"
+"X-Poedit-SearchPath-11: functions/shopp/functionsShopp.php\n"
+"X-Poedit-SearchPath-12: functions/shopperpress/functionsShopperpress.php\n"
+"X-Poedit-SearchPath-13: functions/wpecommerce/functionsWPeCommerce.php\n"
+"X-Poedit-SearchPath-14: functions/functions.php\n"
+"X-Poedit-SearchPath-15: model/Attribute.class.php\n"
+"X-Poedit-SearchPath-16: model/Cards.class.php\n"
+"X-Poedit-SearchPath-17: model/Clients.class.php\n"
+"X-Poedit-SearchPath-18: model/Count.class.php\n"
+"X-Poedit-SearchPath-19: model/Item.class.php\n"
+"X-Poedit-SearchPath-20: model/Order.class.php\n"
+"X-Poedit-SearchPath-21: model/OrderManager.class.php\n"
+"X-Poedit-SearchPath-22: model/Orders.class.php\n"
+"X-Poedit-SearchPath-23: model/PremiumTimeStamp.class.php\n"
+"X-Poedit-SearchPath-24: model/Settings.class.php\n"
+"X-Poedit-SearchPath-25: model/Software.class.php\n"
+"X-Poedit-SearchPath-26: model/StatusCodes.class.php\n"
+"X-Poedit-SearchPath-27: model/StatusManager.class.php\n"
+"X-Poedit-SearchPath-28: model/TrackingManager.class.php\n"
+"X-Poedit-SearchPath-29: model/User.class.php\n"
+"X-Poedit-SearchPath-30: view/admin.php\n"
+"X-Poedit-SearchPath-31: view/count.php\n"
+"X-Poedit-SearchPath-32: view/error.php\n"
+"X-Poedit-SearchPath-33: view/fillSettings.php\n"
+"X-Poedit-SearchPath-34: view/messageSettings.php\n"
+"X-Poedit-SearchPath-35: view/module.php\n"
+"X-Poedit-SearchPath-36: view/noticeErrorXml.php\n"
+"X-Poedit-SearchPath-37: view/noticeFailedPayement.php\n"
+"X-Poedit-SearchPath-38: view/orders.php\n"
+"X-Poedit-SearchPath-39: view/setUp.php\n"
+"X-Poedit-SearchPath-40: view/shipworks_admin.php\n"
+"X-Poedit-SearchPath-41: view/statusCode.php\n"
+"X-Poedit-SearchPath-42: view/statusFail.php\n"
+"X-Poedit-SearchPath-43: view/statusSuccess.php\n"
+"X-Poedit-SearchPath-44: view/store.php\n"
+"X-Poedit-SearchPath-45: view/subscription.php\n"
+"X-Poedit-SearchPath-46: view/trackingFail.php\n"
+"X-Poedit-SearchPath-47: view/trackingSuccess.php\n"
+
+#: control/controlAdmin.php:27
+msgid "Update"
+msgstr "Modifier"
+
+#: control/controlAdmin.php:44
+msgid ""
+"Your Username and password can't be empty, please create them and click on "
+"update"
+msgstr ""
+"Votre nom d'utilisateur et votre mot de passe ne peuvent pas être vide, "
+"merci de les créer et de cliquer sur modifier"
+
+#: control/controlConnection.php:62
+msgid ""
+"Your last payment failed, please call us at 786 395 1058 to update your "
+"credit card information"
+msgstr ""
+"Votre dernier paiement a échoué, merci de nous contacter au +1 786 395 1058 "
+"pour mettre a jour votre carte bleue"
+
+#: control/controlConnection.php:69 control/controlConnection.php:107
+msgid ""
+"You are using the free version of Shipworks Connector. The free version is "
+"only if you have less than 30 orders / month. Please take a subscription on "
+"our website (take less than 5 min):https://www.advanced-creation.com/get-"
+"your-shipworks-wordpress-plugin/"
+msgstr ""
+"Vous utilisez la version gratuite de Shipworks Connector. La version "
+"gratuite est seulement si vous avez moins de 30 commandes / mois. Merci de "
+"prendre un abonnement sur notre site internet (prend moins de 5 min):https://"
+"www.advanced-creation.com/get-your-shipworks-wordpress-plugin/"
+
+#: control/controlConnection.php:100
+msgid ""
+"Your last payment failed, please call us at 786 395 1058 to update your "
+"credit card"
+msgstr ""
+"Votre dernier paiement a échoué, merci de nous contacter au +1 786 395 1058 "
+"pour mettre a jour votre carte bleue"
+
+#: control/controlConnection.php:144
+msgid ""
+"You have succesfully installed Shipworks Connector on your website. We "
+"didn't find any E-commerce plugin activated on your website, please activate "
+"it. If you are using a multisite, please do not activate the plugin network "
+"wide. Activate the plugin on each instance new sub website and the plugin "
+"will work correctly"
+msgstr ""
+"Vous avez installé Shipworks Connector avec succès. Nous n'avons pas trouvé "
+"d'extension E-commerce activé sur votre site internet, merci de l'activer. "
+"Si vous utilisez une installation multisite, merci de ne pas activer "
+"l'extension pour le réseau mais d'activer l'extension E-commerce "
+"indépendamment pour chaque site internet"
+
+#: control/controlConnection.php:149
+msgid ""
+"Wrong credentials. Please copy and paste your username and password from "
+"your wordpress (plugin Shipworks connector) to Shipworks"
+msgstr ""
+"Mauvais identifiants. Merci de copier et coller votre nom d'utilisateur et "
+"votre mot de passe de votre Wordpress (Extension Shipworks Connector) sur "
+"Shipworks"
+
+#: control/controlSubscription.php:24
+msgid " The subscription was not canceled."
+msgstr " L'abonnement n'a pas été supprimer."
+
+#: control/controlSubscription.php:26
+msgid "The subscription is canceled."
+msgstr "L'abonnement a été supprimé."
+
+#: control/controlSubscription.php:56 model/Clients.class.php:69
+#: model/OrderManager.class.php:78
+msgid "The server couldn't be reach, please try again later"
+msgstr "Le server n'est pas joignable, merci d'essayer plus tard"
+
+#: controler.php:29
+msgid "Shipworks WordPress"
+msgstr "Shipworks Wordpress"
+
+#: controler.php:29
+msgid "Shipworks WP"
+msgstr "Shipworks WP"
+
+#: controler.php:30
+msgid "Set Up | Shipworks WordPress"
+msgstr "Configuration  | Shipworks Wordpress"
+
+#: controler.php:30
+msgid "Set Up"
+msgstr "Configuration"
+
+#: controler.php:31
+msgid "Subscription | Shipworks WordPress"
+msgstr "Abonnement | Shipworks Wordpress"
+
+#: controler.php:31
+msgid "Subscription"
+msgstr "Abonnement"
+
+#: controler.php:32
+msgid "Display Settings"
+msgstr "Affichage"
+
+#: controler.php:35
+msgid "Settings"
+msgstr "Paramètres"
+
+#: functions/woocommerce/functionsWoocommerce.php:648
+msgid "admin"
+msgstr "administrateur"
+
+#: functions/woocommerce/functionsWoocommerce.php:715
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: model/Order.class.php:288 model/Order.class.php:480
+msgid "Coupon: "
+msgstr "Coupon: "
+
+#: model/Order.class.php:358
+msgid "Future Date: "
+msgstr "Date Ultérieure "
+
+#: model/Order.class.php:504
+msgid "Preferred Customer discount $"
+msgstr "Remise client privilégié $"
+
+#: model/Order.class.php:506
+msgid "Reward Dollars Spent $"
+msgstr "Récompense Dépensée $"
+
+#: model/Order.class.php:509
+msgid "Reward Dollars Earned $"
+msgstr "Récompense Gagnée $"
+
+#: model/Order.class.php:772
+msgid "Coupon : "
+msgstr "Coupon: "
+
+#: model/Software.class.php:246
+#, php-format
+msgid ""
+"You are currently running %s with the version %s .This is fully compatible "
+"with our plugin ShipWorks Connector."
+msgstr ""
+"Vous exécutez actuellement %s avec la version%s. Cette extension est "
+"entièrement compatible avec notre extension ShipWorks Connector."
+
+#: model/Software.class.php:254
+msgid ""
+"We didn't find any E-commerce plugin activated on your website, please "
+"activate it. If you are using a multisite, please do not activate the plugin "
+"network wide. Activate the plugin on each instance new sub website and the "
+"plugin will work correctly."
+msgstr ""
+"Nous n'avons pas trouvé d'extension E-commerce activé sur votre site "
+"internet, merci de l'activer. Si vous utilisez une installation multisite, "
+"merci de ne pas activer l'extension pour le réseau mais d'activer "
+"l'extension E-commerce indépendamment pour chaque site internet."
+
+#: model/StatusManager.class.php:60
+msgid "Order and Status not communicate correctly"
+msgstr "Command et Statut n'a pas été communiqué correctement"
+
+#: model/StatusManager.class.php:70
+msgid "Order not communicate correctly"
+msgstr "La commande ne communique pas correctement"
+
+#: model/StatusManager.class.php:80
+msgid "Status not communicate correctly"
+msgstr "Le statut ne communique pas correctement"
+
+#: model/StatusManager.class.php:206 model/StatusManager.class.php:240
+#: model/StatusManager.class.php:316 model/StatusManager.class.php:434
+#: model/StatusManager.class.php:474 model/StatusManager.class.php:552
+#: model/StatusManager.class.php:598
+msgid "The Status coudn't be update in the database"
+msgstr "Le statut ne peut pas être mis à jour dans la base de données"
+
+#: model/StatusManager.class.php:408
+#, php-format
+msgid "Order %s changed from %s to %s"
+msgstr "La commande %s est passée de %s à %s"
+
+#: model/TrackingManager.class.php:71
+msgid "Order and Tracking did not communicate correctly"
+msgstr "La commande et le numéro de suivi n'ont pas communiqué correctement"
+
+#: model/TrackingManager.class.php:81
+msgid "Order did not communicate correctly"
+msgstr "La commande n'a pas communiqué correctement"
+
+#: model/TrackingManager.class.php:91
+msgid "Tracking did not communicate correctly"
+msgstr "Le numéro de suivi n'a pas communiqué correctement"
+
+#: model/TrackingManager.class.php:171 model/TrackingManager.class.php:313
+#: model/TrackingManager.class.php:387 model/TrackingManager.class.php:472
+#: model/TrackingManager.class.php:494 model/TrackingManager.class.php:834
+msgid "The order is not in the Database"
+msgstr "La commande n'est pas dans la base de données"
+
+#: model/TrackingManager.class.php:229
+msgid "The tracking number coudn't be update in the database"
+msgstr "Le numéro de suivi ne peut pas être mis à jour dans la base de données"
+
+#: model/TrackingManager.class.php:265 model/TrackingManager.class.php:339
+msgid "The tracking number coudn't be insert in the database"
+msgstr "Le numéro de suivi ne peut pas être inséré dans la base de données"
+
+#: model/TrackingManager.class.php:325 model/TrackingManager.class.php:399
+#, php-format
+msgid "Your order %s was shipped on %s via %s. Tracking number is %s"
+msgstr ""
+"Votre commande %s a été expédiée le %s via %s. Le numéro de suivi est %s"
+
+#: model/TrackingManager.class.php:413 model/TrackingManager.class.php:852
+msgid "The tracking number coudn't be insert in the database."
+msgstr "Le numéro de suivi ne peut pas être inséré dans la base de données."
+
+#: model/TrackingManager.class.php:500 model/TrackingManager.class.php:741
+#: model/TrackingManager.class.php:842
+#, php-format
+msgid "Your order %s was shipped on %s via %s. Tracking number is %s."
+msgstr ""
+"Votre commande %s a été expédiée le %s via %s. Le numéro de suivi est %s."
+
+#: model/TrackingManager.class.php:739
+#, php-format
+msgid "The order %s is not in the Database"
+msgstr "La commande %s n'est pas dans la base de données"
+
+#: view/admin.php:45 view/shipworks_admin.php:7
+msgid "Shipworks Account"
+msgstr "Compte Shipworks"
+
+#: view/admin.php:46
+msgid ""
+"Create your username and password below (Do not use Shipworks account "
+"username/password)"
+msgstr ""
+"Créez votre nom d'utilisateur et votre mot de passe ci-dessous (N'utilisez "
+"pas le nom d'utilisateur / mot de passe du compte Shipworks)"
+
+#: view/admin.php:48
+msgid ""
+"Once you create your own username and password use them to create your store "
+"into Shipworks"
+msgstr ""
+"Une fois que vous avez créé votre propre nom d'utilisateur et mot de passe, "
+"utilisez-les pour créer votre boutique dans Shipworks"
+
+#: view/admin.php:56
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: view/admin.php:64
+msgid "Password"
+msgstr "Mot de passe"
+
+#: view/admin.php:74 view/shipworks_admin.php:34
+msgid "Create"
+msgstr "Créer"
+
+#: view/admin.php:81
+msgid ""
+"You created your username and password with success. You can now create your "
+"store in Shipworks"
+msgstr ""
+"Vous avez créé votre nom d'utilisateur et votre mot de passe avec succès. "
+"Vous pouvez maintenant créer votre boutique dans Shipworks"
+
+#: view/admin.php:88 view/shipworks_admin.php:40
+msgid "URL Module"
+msgstr "Module URL"
+
+#: view/admin.php:92
+msgid "(Please enter this url if you DO NOT have SSL installed.)"
+msgstr "(Veuillez saisir cette URL si vous n'avez PAS de SSL installé.)"
+
+#: view/admin.php:102
+msgid "SSL URL Module"
+msgstr "Module URL SSL"
+
+#: view/admin.php:106
+msgid "(Please use this URL if you HAVE SSL installed on your Server.)"
+msgstr ""
+"(Veuillez utiliser cette URL si vous avez un SSL installé sur votre serveur.)"
+
+#: view/fillSettings.php:8
+msgid ""
+"Shipworks Connector: Please create an username and password on the <a href="
+"\"admin.php?page=shipworks-wordpress\">setting page</a>"
+msgstr ""
+"Shipworks Connector: veuillez créer un nom d'utilisateur et un mot de passe "
+"sur la <a href=\"admin.php?page=shipworks-wordpress\"> page de configuration "
+"</a>"
+
+#: view/messageSettings.php:40
+msgid "Message Settings"
+msgstr "Paramètres des messages"
+
+#: view/messageSettings.php:41
+msgid "Select which messages to include in Shipworks!"
+msgstr "Sélectionnez les messages à inclure dans Shipworks!"
+
+#: view/messageSettings.php:45
+msgid "Show Coupon"
+msgstr "Afficher les coupons"
+
+#: view/messageSettings.php:51
+msgid "Show Private Message"
+msgstr "Afficher les messages privés"
+
+#: view/messageSettings.php:57
+msgid "Show Customer Message"
+msgstr "Afficher les messages des clients"
+
+#: view/messageSettings.php:64
+msgid "Product information"
+msgstr "Information sur les produits"
+
+#: view/messageSettings.php:65
+msgid "Select what information to include under products"
+msgstr "Sélectionnez les informations à inclure dans les produits"
+
+#: view/messageSettings.php:69
+msgid "Show Variation Id"
+msgstr "Afficher l'ID de variation produit"
+
+#: view/messageSettings.php:75
+msgid "Show Sku"
+msgstr "Montrez les UGS"
+
+#: view/messageSettings.php:80
+msgid "Downloadable Product"
+msgstr "Produit téléchargeable"
+
+#: view/messageSettings.php:81
+msgid "Check if you want to download even virtual product"
+msgstr "Cochez si vous souhaitez télécharger un produit virtuel"
+
+#: view/messageSettings.php:85
+msgid "Download all virtual products in Shipworks"
+msgstr "Téléchargez tous les produits virtuels dans Shipworks"
+
+#: view/messageSettings.php:90
+msgid "Woocommerce API"
+msgstr "API Woocommerce"
+
+#: view/messageSettings.php:91
+msgid ""
+"Check to use woocommerce API (Woocommerce will send emails automatically)"
+msgstr ""
+"Cochez pour utiliser l'API woocommerce (Woocommerce enverra automatiquement "
+"des e-mails)"
+
+#: view/messageSettings.php:95
+msgid "Use Woocommerce API"
+msgstr "Utilisez l'API Woocommerce"
+
+#: view/messageSettings.php:99
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: view/noticeErrorXml.php:8
+msgid ""
+"Shipworks Connector: XML library is not activated on your hosting, please "
+"contact your hosting and ask them to enable module libxml"
+msgstr ""
+"Shipworks Connector: la bibliothèque XML n'est pas activée sur votre "
+"hébergement, veuillez contacter votre hébergement et lui demander d'activer "
+"le module libxml"
+
+#: view/noticeFailedPayement.php:8
+msgid ""
+"Shipworks Connector: Your last payement failed, please contact us to update "
+"your payment information: Advanced Creation Tel (800) 401 2238"
+msgstr ""
+"Shipworks Connector: votre dernier paiement a échoué, veuillez nous "
+"contacter pour mettre à jour vos informations de paiement: Advanced Creation "
+"+1 786 395 1058"
+
+#: view/setUp.php:7
+msgid "Step 1 : Download Shipworks and install it on your computer"
+msgstr "Étape 1: téléchargez Shipworks et installez-le sur votre ordinateur"
+
+#: view/setUp.php:9
+msgid "Download Shipworks Here"
+msgstr "Téléchargez Shipworks ici"
+
+#: view/setUp.php:11 view/setUp.php:21
+msgid "Install it"
+msgstr "Installez-le"
+
+#: view/setUp.php:17
+msgid "Step 2 : Setup a Store in Shipworks"
+msgstr "Étape 2: Configurer une boutique dans Shipworks"
+
+#: view/setUp.php:19
+msgid ""
+"if you already have a store installed, click on Manage ==> Store ==> Add "
+"Store"
+msgstr ""
+"si vous avez déjà installé une boutique, cliquez sur Gérer ==> Magasin ==> "
+"Ajouter une boutique"
+
+#: view/setUp.php:27
+msgid "Step 3 : Insert your information in the section Settings of this plugin"
+msgstr ""
+"Étape 3: Insérez vos informations dans la section Paramètres de cette "
+"extension"
+
+#: view/setUp.php:29
+msgid "Insert your Username and Password you want : Shipworks Account"
+msgstr ""
+"Insérez votre nom d'utilisateur et votre mot de passe de votre choix: Compte "
+"Shipworks"
+
+#: view/setUp.php:31
+msgid "Insert your Adress Store : Store Address"
+msgstr "Insérez votre adresse: Adresse de la boutique"
+
+#: view/setUp.php:37
+msgid ""
+"Step 4 : Insert you Username, Password and URL Generic Module in Shipwork "
+"and follow images below"
+msgstr ""
+"Étape 4: Insérez votre nom d'utilisateur, mot de passe et module générique "
+"URL dans Shipwork et suivez les images ci-dessous"
+
+#: view/shipworks_admin.php:8
+msgid ""
+"Username and Password you will enter in Shipworks Store (Shipworks will ask "
+"this username and password after click on create a Store)"
+msgstr ""
+"Nom d'utilisateur et mot de passe que vous saisirez dans Shipworks Store "
+"(Shipworks vous demandera ce nom d'utilisateur et ce mot de passe après "
+"avoir cliqué sur créer une boutique)"
+
+#: view/shipworks_admin.php:16
+msgid "Shipworks Username"
+msgstr "Nom d'utilisateur Shipworks"
+
+#: view/shipworks_admin.php:24
+msgid "Shipworks Password"
+msgstr "Mot de passe Shipworks"
+
+#: view/shipworks_admin.php:44
+msgid "Please enter this url when you will set up your Shipworks Account"
+msgstr ""
+"Veuillez saisir cette URL lorsque vous configurerez votre boutique dans "
+"Shipworks"
+
+#: view/subscription.php:8
+msgid "There is a communication issue with our server, please try again later."
+msgstr "Le server n'est pas joignable, merci d'essayer plus tard."
+
+#: view/subscription.php:9
+msgid "if you already wait and the issue is still here, please contact us: "
+msgstr ""
+"si vous attendez déjà et que le problème est toujours là, contactez-nous: "
+
+#: view/subscription.php:13 view/subscription.php:31
+msgid "The plugin is active and you can process an unlimited number of order."
+msgstr ""
+"Votre abonnement est actif et vous pouvez traiter un nombre illimité de "
+"commandes."
+
+#: view/subscription.php:14 view/subscription.php:49
+msgid "Your last payment was on: "
+msgstr "Votre dernier paiement a eu lieu le: "
+
+#: view/subscription.php:15 view/subscription.php:33
+msgid "Next payment will be one month later."
+msgstr "Le prochain paiement aura lieu un mois plus tard."
+
+#: view/subscription.php:19 view/subscription.php:37
+msgid "Cancel Subscription"
+msgstr "Annuler l'abonnement"
+
+#: view/subscription.php:22
+msgid ""
+"If you cancel your subscription the plugin will still be working for the "
+"month corresponding to the last payment."
+msgstr ""
+"Si vous annulez votre abonnement, le plugin fonctionnera toujours pendant le "
+"mois correspondant au dernier paiement."
+
+#: view/subscription.php:23
+msgid "But no payment will be done in the future."
+msgstr "Mais aucun paiement ne sera effectué à l'avenir."
+
+#: view/subscription.php:32
+msgid "Your are currently on trial (for 1 month)"
+msgstr "Vous êtes actuellement en version d'essai (pendant 1 mois)"
+
+#: view/subscription.php:40
+msgid ""
+"If you cancel your subscription, you won't be able to process order in "
+"shipworks and no payment will be done."
+msgstr ""
+"Si vous annulez votre abonnement, vous ne pourrez pas traiter la commande "
+"dans Shipworks et aucun paiement ne sera effectué."
+
+#: view/subscription.php:48
+msgid ""
+"The subscription was canceled, the plugin is still active and you can "
+"process an unlimited number of order."
+msgstr ""
+"L'abonnement a été annulé, le plugin est toujours actif et vous pouvez "
+"traiter un nombre illimité de commandes."
+
+#: view/subscription.php:53
+msgid ""
+"You seems to have a subscription but the last payment was more than a month "
+"ago: "
+msgstr ""
+"Vous semblez avoir un abonnement mais le dernier paiement remonte à plus "
+"d'un mois: "
+
+#: view/subscription.php:54
+msgid ""
+"There was probably an issue with you credit card information. Please contact "
+"us: "
+msgstr ""
+"Il y a probablement un problème avec votre carte bleu dans notre système. "
+"Contactez nous: "
+
+#: view/subscription.php:59
+msgid "We offered one month free unlimited order for testing"
+msgstr ""
+"Nous avons offert un mois de commande illimitée gratuite pour les tests"
+
+#: view/subscription.php:60
+msgid "The free trial version is active and running, it was activated on "
+msgstr ""
+"La version d'essai gratuite est active et fonctionne, elle a été activée le "
+
+#: view/subscription.php:60
+msgid "and it will be free for a month after this date"
+msgstr "et ce sera gratuit pendant un mois après cette date"
+
+#: view/subscription.php:62
+msgid ""
+"After a month you will need a subscription if you have more than 30 orders "
+"per month"
+msgstr ""
+"Après un mois, vous aurez besoin d'un abonnement si vous avez plus de 30 "
+"commandes par mois"
+
+#: view/subscription.php:63
+msgid ""
+"To avoid interuption, please click below to get a subscription for $7.95/"
+"month"
+msgstr ""
+"Pour éviter les interruptions, veuillez cliquer ci-dessous pour obtenir un "
+"abonnement à 7,95 $  / mois"
+
+#: view/subscription.php:68
+msgid ""
+"You are on the Free version of our plugin (less than 30 orders per month)"
+msgstr ""
+"Vous êtes sur la version gratuite de notre plugin (moins de 30 commandes par "
+"mois)"
+
+#: view/subscription.php:69
+msgid ""
+"If you need a subscription for unlimited orders (more than 30/month). Please "
+"click below to get a subscription for $7.95/month"
+msgstr ""
+"Si vous avez besoin d'un abonnement pour des commandes illimitées (plus de "
+"30 / mois). Veuillez cliquer ci-dessous pour obtenir un abonnement de 7,95 "
+"$ / mois"
